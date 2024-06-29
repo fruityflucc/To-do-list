@@ -14,6 +14,11 @@ A simple basic to-do list implementation using javascript, which adds the items 
 
 ## Screenshots
 
+![Screenshot 2024-06-29 235711](https://github.com/fruityflucc/To-do-list/assets/88103228/186fb90a-7081-4ea0-9716-1de683e8ebb8)
+![Screenshot 2024-06-29 235807](https://github.com/fruityflucc/To-do-list/assets/88103228/0fa561e2-3436-4dd9-b9a7-ed4a951943cc)
+![Screenshot 2024-06-29 235831](https://github.com/fruityflucc/To-do-list/assets/88103228/e354d014-7b33-4101-9367-3aebea4aeeb4)
+![Screenshot 2024-06-29 235842](https://github.com/fruityflucc/To-do-list/assets/88103228/dfa3be0d-d763-4923-a9fd-14334601483f)
+
 ## Authors
 
 - [@Madhav Sharma](https://github.com/fruityflucc)
